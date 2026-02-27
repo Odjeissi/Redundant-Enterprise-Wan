@@ -30,7 +30,7 @@ Preemption is enabled to ensure the preferred switch regains Active status after
 
 - show standby brief
 
-![Enterprise Network Topology](screenshots/HSRP.png)
+![HSRP](/screenshots/HSRP.png)
 
 Failover Test:
 
