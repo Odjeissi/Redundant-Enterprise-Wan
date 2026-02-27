@@ -19,7 +19,7 @@ Inside networks translated:
 
 PAT allows multiple internal hosts to share a single public IP.
 
-![Enterprise Network Topology](screenshots/NAT.png)
+![NAT](/screenshots/NAT.png)
 
 ---
 
@@ -39,7 +39,7 @@ Denied:
 
 - Telnet (TCP 23)
 
-![Enterprise Network Topology](screenshots/ACL.png)
+![ACL](/screenshots/ACL.png)
 
 Purpose:
 
