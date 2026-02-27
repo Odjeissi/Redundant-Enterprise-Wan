@@ -25,15 +25,15 @@ OSPF Area 0 is used across the Distribution, Core, and Edge layers.
 
 - show ip ospf neighbor
 
-![Enterprise Network Topology](screenshots/neighbor.png)
+![OSPF](/screenshots/neighbor.png)
 
 - show ip route
 
-![Enterprise Network Topology](screenshots/route.png)
+![OSPF](/screenshots/route.png)
 
 - show ip protocols
 
-![Enterprise Network Topology](screenshots/protocol.png)
+![OSPF](/screenshots/protocol.png)
 
 Expected Result:
 
