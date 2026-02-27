@@ -104,7 +104,7 @@ The following tests were performed and verified:
 - OSPF neighbor adjacency between Distribution, Core, and Edge
 - Routing table validation (internal routes + default route propagation)
 - NAT translation verification using live traffic tests
-- ACL verification using hit counters and blocked telnet attempts
+- ACL verification
 - Failover testing (HSRP role change and continued connectivity)
 
 Detailed steps available in: documentation/validation-tests.md
@@ -128,4 +128,4 @@ Detailed steps available in: documentation/validation-tests.md
 
 Odjeissi Xavier Mendes  
 CCNA | CompTIA Security+  
-Junior Network Engineer (Portfolio Project)
+Aspiring Junior Network Engineer
